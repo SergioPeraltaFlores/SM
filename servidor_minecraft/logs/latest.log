@@ -156,3 +156,45 @@ java.nio.file.NoSuchFileException: server.properties
 [16:49:31] [Server thread/INFO]: _Electrico_ lost connection: Timed out
 [16:49:31] [Server thread/INFO]: _Electrico_ left the game
 [16:52:13] [Server thread/INFO]: Villager byb['Villager'/2737, l='ServerLevel[world]', x=280.63, y=64.00, z=522.28] died, message: 'Villager suffocated in a wall'
+[16:54:33] [Server thread/INFO]: Villager byb['Villager'/3743, l='ServerLevel[world]', x=293.72, y=68.56, z=548.63] died, message: 'Villager suffocated in a wall'
+[16:54:35] [Server thread/INFO]: Villager byb['Villager'/3800, l='ServerLevel[world]', x=301.28, y=71.50, z=569.37] died, message: 'Villager suffocated in a wall'
+[16:55:26] [User Authenticator #6/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[16:55:26] [Server thread/INFO]: _Electrico_[/127.196.230.22:43123] logged in with entity id 4421 at (-8.5, 102.17376339632246, -0.5)
+[16:55:26] [Server thread/INFO]: _Electrico_ joined the game
+[16:55:56] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[16:55:56] [Server thread/INFO]: _Electrico_ left the game
+[16:56:00] [User Authenticator #7/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[16:56:00] [Server thread/INFO]: _Electrico_[/127.196.230.22:53491] logged in with entity id 4583 at (-8.5, 99.47920184807367, -0.5)
+[16:56:00] [Server thread/INFO]: _Electrico_ joined the game
+[16:56:07] [Server thread/INFO]: NeoSergio00 has made the advancement [Acquire Hardware]
+[16:56:30] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[16:56:30] [Server thread/INFO]: _Electrico_ left the game
+[16:59:09] [Server thread/INFO]: Golden1000 lost connection: Disconnected
+[16:59:09] [Server thread/INFO]: Golden1000 left the game
+[17:01:11] [User Authenticator #8/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[17:01:11] [Server thread/INFO]: _Electrico_[/127.196.230.22:38303] logged in with entity id 6655 at (-8.5, 99.01504247311823, -0.5)
+[17:01:11] [Server thread/INFO]: _Electrico_ joined the game
+[17:01:41] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[17:01:41] [Server thread/INFO]: _Electrico_ left the game
+[17:02:36] [User Authenticator #9/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[17:02:36] [Server thread/INFO]: _Electrico_[/127.196.230.22:43445] logged in with entity id 6950 at (-8.5, 99.01504247311823, -0.5)
+[17:02:36] [Server thread/INFO]: _Electrico_ joined the game
+[17:03:06] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[17:03:06] [Server thread/INFO]: _Electrico_ left the game
+[17:03:22] [User Authenticator #10/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[17:03:22] [Server thread/INFO]: _Electrico_[/127.196.230.22:40667] logged in with entity id 7149 at (-8.5, 99.01504247311823, -0.5)
+[17:03:22] [Server thread/INFO]: _Electrico_ joined the game
+[17:03:41] [User Authenticator #11/INFO]: UUID of player Golden1000 is 356bec02-019b-4d21-92db-fc5fd7ee57af
+[17:03:41] [Server thread/INFO]: Golden1000[/127.186.38.55:43385] logged in with entity id 7302 at (-5.300000011920929, 104.0, 5.323310315137155)
+[17:03:41] [Server thread/INFO]: Golden1000 joined the game
+[17:03:52] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[17:03:52] [Server thread/INFO]: _Electrico_ left the game
+[17:05:33] [Server thread/INFO]: Golden1000 lost connection: Disconnected
+[17:05:33] [Server thread/INFO]: Golden1000 left the game
+[17:09:52] [Server thread/INFO]: NeoSergio00 lost connection: Disconnected
+[17:09:52] [Server thread/INFO]: NeoSergio00 left the game
+[17:12:02] [User Authenticator #12/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[17:12:02] [Server thread/INFO]: _Electrico_[/127.196.230.22:46217] logged in with entity id 8185 at (-8.5, 99.01504247311823, -0.5)
+[17:12:02] [Server thread/INFO]: _Electrico_ joined the game
+[17:12:32] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[17:12:32] [Server thread/INFO]: _Electrico_ left the game

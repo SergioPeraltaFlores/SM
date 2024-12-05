@@ -942,5 +942,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-05 21:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-05 21:44:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -38,3 +38,10 @@
 [21:35:39] [Server thread/INFO]: NeoSergio00 joined the game
 [21:35:53] [Server thread/INFO]: NeoSergio00 lost connection: Disconnected
 [21:35:53] [Server thread/INFO]: NeoSergio00 left the game
+[21:44:09] [User Authenticator #3/INFO]: UUID of player NeoSergio00 is 441f2444-797e-45f4-8c6f-3c2b2922cf02
+[21:44:09] [Server thread/INFO]: NeoSergio00[/127.98.203.197:51541] logged in with entity id 2253 at (-467.0689632036166, 69.0, -1617.6486592451731)
+[21:44:09] [Server thread/INFO]: NeoSergio00 joined the game
+[21:44:36] [Server thread/INFO]: NeoSergio00 has made the advancement [Sweet Dreams]
+[21:51:13] [Server thread/INFO]: NeoSergio00 has made the advancement [A Seedy Place]
+[21:53:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-417, y=64, z=-1633} gu{x=-419, y=63, z=-1634}
+[21:53:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-417, y=64, z=-1633} gu{x=-419, y=63, z=-1634}

@@ -126,3 +126,13 @@
 [18:56:34] [Server thread/INFO]: _Electrico_ joined the game
 [19:01:12] [Server thread/INFO]: _Electrico_ has made the advancement [Stone Age]
 [19:01:38] [Server thread/INFO]: _Electrico_ has made the advancement [Getting an Upgrade]
+[19:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-891, y=64, z=193} gu{x=-891, y=62, z=193}
+[19:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-891, y=64, z=193} gu{x=-891, y=62, z=193}
+[19:07:47] [Server thread/WARN]: Boat (vehicle of _Electrico_) moved wrongly! 0.566650390625
+[19:07:47] [Server thread/WARN]: Boat (vehicle of _Electrico_) moved wrongly! 0.566650390625
+[19:07:47] [Server thread/WARN]: Boat (vehicle of _Electrico_) moved wrongly! 0.566650390625
+[19:12:31] [Server thread/INFO]: _Electrico_ has made the advancement [Monster Hunter]
+[19:13:11] [Server thread/INFO]: _Electrico_ drowned
+[19:20:18] [User Authenticator #20/INFO]: UUID of player Golden1000 is 356bec02-019b-4d21-92db-fc5fd7ee57af
+[19:20:18] [Server thread/INFO]: Golden1000[/127.186.38.55:56983] logged in with entity id 9786 at (-5.39452320721472, 104.0, 5.548410559003484)
+[19:20:18] [Server thread/INFO]: Golden1000 joined the game

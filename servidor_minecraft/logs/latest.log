@@ -1,158 +1,37 @@
-[17:41:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:41:13] [ServerMain/INFO]: Loaded 7 recipes
-[17:41:13] [ServerMain/INFO]: Loaded 1271 advancements
-[17:41:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:41:14] [Server thread/INFO]: Loading properties
-[17:41:14] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:14] [Server thread/INFO]: Generating keypair
-[17:41:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:14] [Server thread/INFO]: Using epoll channel type
-[17:41:14] [Server thread/INFO]: Preparing level "world"
-[17:41:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:41:30] [Server thread/INFO]: Time elapsed: 9252 ms
-[17:41:30] [Server thread/INFO]: Done (15.604s)! For help, type "help"
-[17:41:39] [User Authenticator #1/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[17:41:39] [Server thread/INFO]: _Electrico_[/127.196.230.22:50817] logged in with entity id 94 at (-8.5, 99.01504247311823, -0.5)
-[17:41:39] [Server thread/INFO]: _Electrico_ joined the game
-[17:42:09] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[17:42:09] [Server thread/INFO]: _Electrico_ left the game
-[17:51:56] [User Authenticator #2/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[17:51:56] [Server thread/INFO]: _Electrico_[/127.196.230.22:49493] logged in with entity id 221 at (-8.5, 99.01504247311823, -0.5)
-[17:51:56] [Server thread/INFO]: _Electrico_ joined the game
-[17:52:26] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[17:52:26] [Server thread/INFO]: _Electrico_ left the game
-[17:57:16] [User Authenticator #3/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[17:57:16] [Server thread/INFO]: _Electrico_[/127.196.230.22:34641] logged in with entity id 289 at (-8.5, 99.01504247311823, -0.5)
-[17:57:16] [Server thread/INFO]: _Electrico_ joined the game
-[17:57:47] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[17:57:47] [Server thread/INFO]: _Electrico_ left the game
-[18:00:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@23a94019[id=<null>,name=_Electrico_,properties={},legacy=false] (/127.196.230.22:48543) lost connection: Disconnected
-[18:01:02] [User Authenticator #4/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:01:02] [Server thread/INFO]: _Electrico_[/127.196.230.22:60649] logged in with entity id 364 at (-8.5, 99.01504247311823, -0.5)
-[18:01:02] [Server thread/INFO]: _Electrico_ joined the game
-[18:01:32] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:01:32] [Server thread/INFO]: _Electrico_ left the game
-[18:06:09] [User Authenticator #5/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:06:09] [Server thread/INFO]: _Electrico_[/127.196.230.22:54333] logged in with entity id 426 at (-8.5, 99.01504247311823, -0.5)
-[18:06:09] [Server thread/INFO]: _Electrico_ joined the game
-[18:06:30] [User Authenticator #6/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:06:30] [Server thread/INFO]: _Electrico_ lost connection: You logged in from another location
-[18:06:30] [Server thread/INFO]: _Electrico_ left the game
-[18:06:30] [Server thread/INFO]: _Electrico_[/127.196.230.22:47521] logged in with entity id 467 at (-8.5, 99.01504247311823, -0.5)
-[18:06:30] [Server thread/INFO]: _Electrico_ joined the game
-[18:07:00] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:07:00] [Server thread/INFO]: _Electrico_ left the game
-[18:16:57] [User Authenticator #7/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:16:57] [Server thread/INFO]: _Electrico_[/127.196.230.22:58211] logged in with entity id 509 at (-8.5, 99.01504247311823, -0.5)
-[18:16:57] [Server thread/INFO]: _Electrico_ joined the game
-[18:17:27] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:17:27] [Server thread/INFO]: _Electrico_ left the game
-[18:25:23] [User Authenticator #8/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:25:23] [Server thread/INFO]: _Electrico_[/127.55.45.136:46383] logged in with entity id 593 at (-8.5, 99.01504247311823, -0.5)
-[18:25:23] [Server thread/INFO]: _Electrico_ joined the game
-[18:26:38] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:26:38] [Server thread/INFO]: _Electrico_ left the game
-[18:26:48] [User Authenticator #9/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:26:48] [Server thread/INFO]: _Electrico_[/127.218.93.58:54237] logged in with entity id 759 at (-8.699999988079071, 97.0, -12.905090533385382)
-[18:26:48] [Server thread/INFO]: _Electrico_ joined the game
-[18:27:01] [Server thread/INFO]: _Electrico_ was shot by Skeleton
-[18:27:18] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:27:18] [Server thread/INFO]: _Electrico_ left the game
-[18:27:43] [User Authenticator #10/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:27:43] [Server thread/INFO]: _Electrico_[/127.196.230.22:50139] logged in with entity id 808 at (-11.699999988079071, 99.1212968405392, -12.155713273396385)
-[18:27:43] [Server thread/INFO]: _Electrico_ joined the game
-[18:28:13] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:28:13] [Server thread/INFO]: _Electrico_ left the game
-[18:28:22] [User Authenticator #11/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:28:22] [Server thread/INFO]: _Electrico_[/127.196.230.22:53535] logged in with entity id 809 at (-11.699999988079071, 99.04289683901332, -12.155713273396385)
-[18:28:22] [Server thread/INFO]: _Electrico_ joined the game
-[18:28:52] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:28:52] [Server thread/INFO]: _Electrico_ left the game
-[18:29:03] [User Authenticator #12/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:29:03] [Server thread/INFO]: _Electrico_[/127.188.15.20:56607] logged in with entity id 811 at (-11.699999988079071, 99.04289683901332, -12.155713273396385)
-[18:29:03] [Server thread/INFO]: _Electrico_ joined the game
-[18:29:33] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:29:33] [Server thread/INFO]: _Electrico_ left the game
-[18:42:40] [User Authenticator #13/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:42:40] [Server thread/INFO]: _Electrico_[/127.196.230.22:43033] logged in with entity id 868 at (3.5, 100.0, 0.5)
-[18:42:40] [Server thread/INFO]: _Electrico_ joined the game
-[18:43:10] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:43:10] [Server thread/INFO]: _Electrico_ left the game
-[18:45:06] [User Authenticator #14/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:45:06] [Server thread/INFO]: _Electrico_[/127.196.230.22:43457] logged in with entity id 947 at (3.5, 100.0, 0.5)
-[18:45:06] [Server thread/INFO]: _Electrico_ joined the game
-[18:45:36] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:45:36] [Server thread/INFO]: _Electrico_ left the game
-[18:45:37] [User Authenticator #15/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:45:37] [Server thread/INFO]: _Electrico_[/127.196.230.22:42821] logged in with entity id 1008 at (3.5, 100.0, 0.5)
-[18:45:37] [Server thread/INFO]: _Electrico_ joined the game
-[18:46:07] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:46:07] [Server thread/INFO]: _Electrico_ left the game
-[18:48:30] [User Authenticator #16/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:48:30] [Server thread/INFO]: _Electrico_[/127.196.230.22:49521] logged in with entity id 1061 at (3.5, 100.0, 0.5)
-[18:48:30] [Server thread/INFO]: _Electrico_ joined the game
-[18:49:00] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:49:00] [Server thread/INFO]: _Electrico_ left the game
-[18:54:12] [User Authenticator #17/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:54:12] [Server thread/INFO]: _Electrico_[/127.12.202.175:44609] logged in with entity id 1131 at (3.5, 100.0, 0.5)
-[18:54:12] [Server thread/INFO]: _Electrico_ joined the game
-[18:55:24] [User Authenticator #18/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:55:24] [Server thread/INFO]: _Electrico_ lost connection: You logged in from another location
-[18:55:24] [Server thread/INFO]: _Electrico_ left the game
-[18:55:24] [Server thread/INFO]: _Electrico_[/127.196.230.22:50899] logged in with entity id 1310 at (2.7963422538836076, 100.0, -0.6099476387352973)
-[18:55:24] [Server thread/INFO]: _Electrico_ joined the game
-[18:55:54] [Server thread/INFO]: _Electrico_ lost connection: Timed out
-[18:55:54] [Server thread/INFO]: _Electrico_ left the game
-[18:56:34] [User Authenticator #19/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[18:56:34] [Server thread/INFO]: _Electrico_[/127.12.202.175:45507] logged in with entity id 1363 at (2.7963422538836076, 100.0, -0.6099476387352973)
-[18:56:34] [Server thread/INFO]: _Electrico_ joined the game
-[19:01:12] [Server thread/INFO]: _Electrico_ has made the advancement [Stone Age]
-[19:01:38] [Server thread/INFO]: _Electrico_ has made the advancement [Getting an Upgrade]
-[19:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-891, y=64, z=193} gu{x=-891, y=62, z=193}
-[19:07:41] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-891, y=64, z=193} gu{x=-891, y=62, z=193}
-[19:07:47] [Server thread/WARN]: Boat (vehicle of _Electrico_) moved wrongly! 0.566650390625
-[19:07:47] [Server thread/WARN]: Boat (vehicle of _Electrico_) moved wrongly! 0.566650390625
-[19:07:47] [Server thread/WARN]: Boat (vehicle of _Electrico_) moved wrongly! 0.566650390625
-[19:12:31] [Server thread/INFO]: _Electrico_ has made the advancement [Monster Hunter]
-[19:13:11] [Server thread/INFO]: _Electrico_ drowned
-[19:20:18] [User Authenticator #20/INFO]: UUID of player Golden1000 is 356bec02-019b-4d21-92db-fc5fd7ee57af
-[19:20:18] [Server thread/INFO]: Golden1000[/127.186.38.55:56983] logged in with entity id 9786 at (-5.39452320721472, 104.0, 5.548410559003484)
-[19:20:18] [Server thread/INFO]: Golden1000 joined the game
-[19:22:10] [User Authenticator #21/INFO]: UUID of player NeoSergio00 is 441f2444-797e-45f4-8c6f-3c2b2922cf02
-[19:22:10] [Server thread/INFO]: NeoSergio00[/127.98.203.197:54005] logged in with entity id 10340 at (92.28876581022838, 62.07326428212277, 981.6875)
-[19:22:10] [Server thread/INFO]: NeoSergio00 joined the game
-[19:22:42] [Server thread/INFO]: <_Electrico_> 50/y/-430
-[19:26:13] [Server thread/INFO]: _Electrico_ has made the advancement [Acquire Hardware]
-[19:26:36] [Server thread/INFO]: _Electrico_ has made the advancement [Isn't It Iron Pick]
-[19:27:08] [Server thread/INFO]: Golden1000 has made the advancement [Getting an Upgrade]
-[19:28:42] [Server thread/INFO]: Golden1000 has made the advancement [Monster Hunter]
-[19:29:10] [Server thread/INFO]: Golden1000 has made the advancement [Stone Age]
-[19:39:21] [Server thread/INFO]: NeoSergio00 has made the advancement [Ice Bucket Challenge]
-[19:39:35] [Server thread/INFO]: <_Electrico_> ven
-[19:39:46] [Server thread/INFO]: Golden1000 has made the advancement [Isn't It Iron Pick]
-[19:39:47] [Server thread/INFO]: Golden1000 has made the advancement [Acquire Hardware]
-[19:39:50] [Server thread/INFO]: <_Electrico_> me voy a cenar
-[19:40:01] [Server thread/INFO]: <_Electrico_> no desytuyais esta cama
-[19:40:14] [Server thread/INFO]: _Electrico_ lost connection: Disconnected
-[19:40:14] [Server thread/INFO]: _Electrico_ left the game
-[19:40:36] [Server thread/INFO]: NeoSergio00 has made the advancement [Hot Stuff]
-[19:40:50] [Server thread/INFO]: Golden1000 has made the advancement [Ice Bucket Challenge]
-[19:41:41] [Server thread/INFO]: NeoSergio00 has made the advancement [Isn't It Iron Pick]
+[21:08:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:08:43] [ServerMain/INFO]: Loaded 7 recipes
+[21:08:43] [ServerMain/INFO]: Loaded 1271 advancements
+[21:08:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:08:44] [Server thread/INFO]: Loading properties
+[21:08:44] [Server thread/INFO]: Default game type: SURVIVAL
+[21:08:44] [Server thread/INFO]: Generating keypair
+[21:08:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:08:44] [Server thread/INFO]: Using epoll channel type
+[21:08:44] [Server thread/INFO]: Preparing level "world"
+[21:08:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:08:59] [Server thread/INFO]: Time elapsed: 8459 ms
+[21:08:59] [Server thread/INFO]: Done (14.701s)! For help, type "help"
+[21:09:08] [User Authenticator #1/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[21:09:08] [Server thread/INFO]: _Electrico_[/127.12.202.175:41303] logged in with entity id 91 at (-464.1862601942184, 69.0, -1612.8446867220364)
+[21:09:08] [Server thread/INFO]: _Electrico_ joined the game
+[21:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[21:09:25] [User Authenticator #2/INFO]: UUID of player Golden1000 is 356bec02-019b-4d21-92db-fc5fd7ee57af
+[21:09:25] [Server thread/INFO]: Golden1000[/127.186.38.55:42167] logged in with entity id 393 at (-486.7603132204314, 71.5625, -1630.6022928418924)
+[21:09:25] [Server thread/INFO]: Golden1000 joined the game

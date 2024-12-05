@@ -48,3 +48,15 @@
 [18:01:02] [User Authenticator #4/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
 [18:01:02] [Server thread/INFO]: _Electrico_[/127.196.230.22:60649] logged in with entity id 364 at (-8.5, 99.01504247311823, -0.5)
 [18:01:02] [Server thread/INFO]: _Electrico_ joined the game
+[18:01:32] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[18:01:32] [Server thread/INFO]: _Electrico_ left the game
+[18:06:09] [User Authenticator #5/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[18:06:09] [Server thread/INFO]: _Electrico_[/127.196.230.22:54333] logged in with entity id 426 at (-8.5, 99.01504247311823, -0.5)
+[18:06:09] [Server thread/INFO]: _Electrico_ joined the game
+[18:06:30] [User Authenticator #6/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[18:06:30] [Server thread/INFO]: _Electrico_ lost connection: You logged in from another location
+[18:06:30] [Server thread/INFO]: _Electrico_ left the game
+[18:06:30] [Server thread/INFO]: _Electrico_[/127.196.230.22:47521] logged in with entity id 467 at (-8.5, 99.01504247311823, -0.5)
+[18:06:30] [Server thread/INFO]: _Electrico_ joined the game
+[18:07:00] [Server thread/INFO]: _Electrico_ lost connection: Timed out
+[18:07:00] [Server thread/INFO]: _Electrico_ left the game

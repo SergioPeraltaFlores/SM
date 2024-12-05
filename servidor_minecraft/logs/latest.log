@@ -1,37 +1,40 @@
-[21:08:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:08:43] [ServerMain/INFO]: Loaded 7 recipes
-[21:08:43] [ServerMain/INFO]: Loaded 1271 advancements
-[21:08:44] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:08:44] [Server thread/INFO]: Loading properties
-[21:08:44] [Server thread/INFO]: Default game type: SURVIVAL
-[21:08:44] [Server thread/INFO]: Generating keypair
-[21:08:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:08:44] [Server thread/INFO]: Using epoll channel type
-[21:08:44] [Server thread/INFO]: Preparing level "world"
-[21:08:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:08:59] [Server thread/INFO]: Time elapsed: 8459 ms
-[21:08:59] [Server thread/INFO]: Done (14.701s)! For help, type "help"
-[21:09:08] [User Authenticator #1/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[21:09:08] [Server thread/INFO]: _Electrico_[/127.12.202.175:41303] logged in with entity id 91 at (-464.1862601942184, 69.0, -1612.8446867220364)
-[21:09:08] [Server thread/INFO]: _Electrico_ joined the game
-[21:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
-[21:09:25] [User Authenticator #2/INFO]: UUID of player Golden1000 is 356bec02-019b-4d21-92db-fc5fd7ee57af
-[21:09:25] [Server thread/INFO]: Golden1000[/127.186.38.55:42167] logged in with entity id 393 at (-486.7603132204314, 71.5625, -1630.6022928418924)
-[21:09:25] [Server thread/INFO]: Golden1000 joined the game
+[21:34:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:34:17] [ServerMain/INFO]: Loaded 7 recipes
+[21:34:17] [ServerMain/INFO]: Loaded 1271 advancements
+[21:34:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:34:18] [Server thread/INFO]: Loading properties
+[21:34:18] [Server thread/INFO]: Default game type: SURVIVAL
+[21:34:18] [Server thread/INFO]: Generating keypair
+[21:34:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:34:18] [Server thread/INFO]: Using epoll channel type
+[21:34:18] [Server thread/INFO]: Preparing level "world"
+[21:34:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:33] [Worker-Main-1/INFO]: Preparing spawn area: 5%
+[21:34:33] [Server thread/INFO]: Time elapsed: 8837 ms
+[21:34:33] [Server thread/INFO]: Done (15.000s)! For help, type "help"
+[21:34:54] [User Authenticator #1/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
+[21:34:54] [Server thread/INFO]: _Electrico_[/127.27.115.185:46235] logged in with entity id 91 at (-463.30000001192093, 72.16610926093821, -1620.5659467641633)
+[21:34:54] [Server thread/INFO]: _Electrico_ joined the game
+[21:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:35:39] [User Authenticator #2/INFO]: UUID of player NeoSergio00 is 441f2444-797e-45f4-8c6f-3c2b2922cf02
+[21:35:39] [Server thread/INFO]: NeoSergio00[/127.98.203.197:42141] logged in with entity id 509 at (-467.0689632036166, 69.0, -1617.6486592451731)
+[21:35:39] [Server thread/INFO]: NeoSergio00 joined the game
+[21:35:53] [Server thread/INFO]: NeoSergio00 lost connection: Disconnected
+[21:35:53] [Server thread/INFO]: NeoSergio00 left the game

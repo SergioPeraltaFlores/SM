@@ -1,47 +1,42 @@
-[21:34:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:34:17] [ServerMain/INFO]: Loaded 7 recipes
-[21:34:17] [ServerMain/INFO]: Loaded 1271 advancements
-[21:34:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:34:18] [Server thread/INFO]: Loading properties
-[21:34:18] [Server thread/INFO]: Default game type: SURVIVAL
-[21:34:18] [Server thread/INFO]: Generating keypair
-[21:34:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:34:18] [Server thread/INFO]: Using epoll channel type
-[21:34:18] [Server thread/INFO]: Preparing level "world"
-[21:34:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:33] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[21:34:33] [Server thread/INFO]: Time elapsed: 8837 ms
-[21:34:33] [Server thread/INFO]: Done (15.000s)! For help, type "help"
-[21:34:54] [User Authenticator #1/INFO]: UUID of player _Electrico_ is 743328ac-106d-483e-98b0-49fc448ac559
-[21:34:54] [Server thread/INFO]: _Electrico_[/127.27.115.185:46235] logged in with entity id 91 at (-463.30000001192093, 72.16610926093821, -1620.5659467641633)
-[21:34:54] [Server thread/INFO]: _Electrico_ joined the game
-[21:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:35:39] [User Authenticator #2/INFO]: UUID of player NeoSergio00 is 441f2444-797e-45f4-8c6f-3c2b2922cf02
-[21:35:39] [Server thread/INFO]: NeoSergio00[/127.98.203.197:42141] logged in with entity id 509 at (-467.0689632036166, 69.0, -1617.6486592451731)
-[21:35:39] [Server thread/INFO]: NeoSergio00 joined the game
-[21:35:53] [Server thread/INFO]: NeoSergio00 lost connection: Disconnected
-[21:35:53] [Server thread/INFO]: NeoSergio00 left the game
-[21:44:09] [User Authenticator #3/INFO]: UUID of player NeoSergio00 is 441f2444-797e-45f4-8c6f-3c2b2922cf02
-[21:44:09] [Server thread/INFO]: NeoSergio00[/127.98.203.197:51541] logged in with entity id 2253 at (-467.0689632036166, 69.0, -1617.6486592451731)
-[21:44:09] [Server thread/INFO]: NeoSergio00 joined the game
-[21:44:36] [Server thread/INFO]: NeoSergio00 has made the advancement [Sweet Dreams]
-[21:51:13] [Server thread/INFO]: NeoSergio00 has made the advancement [A Seedy Place]
-[21:53:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-417, y=64, z=-1633} gu{x=-419, y=63, z=-1634}
-[21:53:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-417, y=64, z=-1633} gu{x=-419, y=63, z=-1634}
+[13:33:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:33:38] [ServerMain/INFO]: Loaded 7 recipes
+[13:33:38] [ServerMain/INFO]: Loaded 1271 advancements
+[13:33:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:33:39] [Server thread/INFO]: Loading properties
+[13:33:39] [Server thread/INFO]: Default game type: SURVIVAL
+[13:33:39] [Server thread/INFO]: Generating keypair
+[13:33:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:33:39] [Server thread/INFO]: Using epoll channel type
+[13:33:39] [Server thread/INFO]: Preparing level "world"
+[13:33:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:54] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[13:33:55] [Server thread/INFO]: Time elapsed: 8763 ms
+[13:33:55] [Server thread/INFO]: Done (15.283s)! For help, type "help"
+[13:35:08] [User Authenticator #1/INFO]: UUID of player NeoSergio00 is 441f2444-797e-45f4-8c6f-3c2b2922cf02
+[13:35:09] [Server thread/INFO]: NeoSergio00[/127.98.203.197:37657] logged in with entity id 90 at (-473.23887698638356, 82.0, -1712.430085998987)
+[13:35:09] [Server thread/INFO]: NeoSergio00 joined the game
+[13:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3284ms or 65 ticks behind
+[13:35:12] [Server thread/WARN]: UUID of added entity already exists: brm['Bee'/148, l='ServerLevel[world]', x=-458.07, y=87.65, z=-1792.07]
+[13:35:14] [Server thread/WARN]: UUID of added entity already exists: brm['Bee'/325, l='ServerLevel[world]', x=-607.81, y=70.85, z=-1747.53]
+[13:35:16] [Server thread/WARN]: UUID of added entity already exists: brs['Cow'/418, l='ServerLevel[world]', x=-622.20, y=81.00, z=-1521.51]
+[13:35:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-481, y=80, z=-1700} gu{x=-480, y=80, z=-1701}
+[13:35:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-481, y=80, z=-1700} gu{x=-480, y=80, z=-1701}
+[13:35:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-481, y=80, z=-1700} gu{x=-480, y=80, z=-1701}
+[13:35:28] [Server thread/WARN]: UUID of added entity already exists: brm['Bee'/501, l='ServerLevel[world]', x=-278.68, y=87.04, z=-1490.71]
